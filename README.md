@@ -7,4 +7,5 @@ This programs is to check the network speed with upload and download speed
 2.tabulate
 * Then copy this code and do execute
 
-# This program is copied from @python_genius on instagram
+# credits
+This program is copied from @python_genius on instagram
